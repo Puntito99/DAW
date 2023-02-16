@@ -5,9 +5,9 @@
 ### Estadio
 *![Estadio_BSC.jpg](https://github.com/puntito99/DAW/blob/main/Estadio_BSC.jpg)
 ### Piel
-*![Piel.jpg](https://github.com/puntito99//DAW/blob/main/PIEL.jpg)
+*![PIEL.jpg](https://github.com/puntito99//DAW/blob/main/PIEL.jpg)
 ### camisa.jpg
-*![CAMISAAAAA.jpg](https://github.com/cristhianpin/DAW/blob/main/CAMISAAAAA.png)
+*![CAMISAAAAA.png](https://github.com/cristhianpin/DAW/blob/main/CAMISAAAAA.png)
 
 ## Tabla 
 
